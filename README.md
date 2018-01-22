@@ -1,7 +1,7 @@
 setup very humble GraphQL Server (based on express & graphiql) and React+Redux Client
 
 to setup:
-node install
+npm install
 
 to start:
 node server
